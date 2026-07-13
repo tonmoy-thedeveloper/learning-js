@@ -1,0 +1,7 @@
+console.log("My name is TonMoy!")
+console.log("I will become a professional Web Developer.")
+console.log(100 + 200)
+console.log("100" + 200)
+console.log(100 + "200")
+console.log(100 + 200 + "300")
+console.log("100" + 200 + 300)

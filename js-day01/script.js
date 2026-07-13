@@ -1,0 +1,12 @@
+console.log("Hello, World!")
+console.log("Tonmoy")
+console.log("Welcome to detroit city")
+console.log(12 + 2345)
+console.log("Fuck zionist")
+console.log(9 / 11)
+console.log("Fuck Extremest")
+
+console.log("Hello")
+console.log("Tonmoy")
+console.log(20 + 5)
+console.log("20 + 5")
